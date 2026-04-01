@@ -23,6 +23,7 @@ The data used in this study were downloaded from the **[GTEx Portal](https://www
 
 Controlled (“private”) individual-level GTEx data require an approved dbGaP request for **phs000424** and are accessed via AnVIL/Terra; see the GTEx **[Protected Access](https://www.gtexportal.org/home/protectedDataAccess)** page and Terra’s step-by-step guide.
 
+The mean-pooled features generated from GTEx histology images using the UNI foundational model have been deposited on **[Zenodo](https://zenodo.org/records/17042244?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhmMjg4ODRhLWUwOWEtNDRhZS04Y2Y0LWJhZWJmZGI5Y2Y3OSIsImRhdGEiOnt9LCJyYW5kb20iOiI0OWE0ZDgxNWFlZTMzMWYxYjNkNGUxN2Q4NjQ5ZTE3YiJ9.QoLemGOP-EQAzDt5Ka38Sw7UVs5kfbitbOvBOKbo-K-AyHA9ROMZCIktbe-Rmi93Q10G90PbZyCUNJtvYa_kwA)** 
 
 
 ### 1. Build Trajectory
