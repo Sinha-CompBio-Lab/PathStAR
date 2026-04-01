@@ -37,7 +37,7 @@ python scripts/build_trajectory.py \
   --outdir ./results/age_analysis_basic
   ```
 
-- `--csv` → Path to input CSV with columns: tissue, sex, age, features (stringified list).
+- `--csv` → Path to input CSV with columns: tissue, sex, age, mean pooled features from UNI (stringified list).
 
 - `--window` (optional) → Sliding window size in years for age bins. (default: 10)
 
