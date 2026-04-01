@@ -124,7 +124,7 @@ python scripts/calculate_delta_score.py \
 
 - `--label (optional) → Filename label to match smoothing outputs (e.g., combined). (default: combined)`
 
-### 6. Cross Tissue Correltaions
+### 6. Cross Tissue Correlataions
 
 Compute ischemia-adjusted cross-tissue correlation matrices and heatmaps.
 
